@@ -2,6 +2,8 @@
 
 int main(void){
     int i=10;
-    printf("HW %d %d" ,i,i);
+    for(i=1;i<=10;i++){
+        printf("HW %d %d" ,i,i);
+    }
     return 0;
 }
