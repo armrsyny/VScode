@@ -2,6 +2,6 @@
 
 int main(void){
     int i=10;
-    printf("HW");
+    printf("HW %d %d" ,i,i);
     return 0;
 }
